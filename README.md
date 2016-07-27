@@ -1,5 +1,5 @@
 # Code Network Starter Kit
-A collection of awesome guides, resources and shiny things.
+A collection of awesome guides, resources and shiny things for rapid prototyping.
 
 
 * Seed Project Templates
