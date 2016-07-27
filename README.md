@@ -152,6 +152,9 @@ All the resources below have specifically specified that their content is open f
 * [Unsplash](https://unsplash.com/) - User submitted, free high-resolution photos. 10 new photos every 10 days.
 * [Good Free Photos](https://www.goodfreephotos.com) - 
 
+
+# Design
+
 ## Patterns
 
 A mixture of CSS and image based pattern resources.
