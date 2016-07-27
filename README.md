@@ -10,7 +10,7 @@ A collection of awesome guides, resources and shiny things.
   * C#
 
 
-## Javscript
+## Javascript
 Boilerplate Projects for Javascript
 
 Suggested Pick - [Hackathon Starter](https://github.com/sahat/hackathon-starter)
