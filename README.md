@@ -152,4 +152,84 @@ All the resources below have specifically specified that their content is open f
 * [Unsplash](https://unsplash.com/) - User submitted, free high-resolution photos. 10 new photos every 10 days.
 * [Good Free Photos](https://www.goodfreephotos.com) - 
 
+## Patterns
+
+A mixture of CSS and image based pattern resources.
+
+* [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns/) - CSS3 based repeatable patterns.
+* [Subtle Patterns](http://subtlepatterns.com/) - Image based background textures and patterns.
+* [The Pattern Library](http://thepatternlibrary.com/) - A collection of bold, bright and funky repeatable patterns.
+* [UI Gradients](http://uigradients.com/) - Nice, subtle linear gradients to use in your designs.
+
+## Fonts
+
+A mixture of free and open source font resources.
+
+* [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/) - A showcase of the best typefaces from the Google web fonts directory.
+* [Brick](https://github.com/alfredxing/brick) - Webfonts that actually look good.
+* [Debian Fonts](http://fonts.debian.net) - [:copyright:](https://www.debian.org/social_contract#guidelines) TTF fonts from the Debian repositories.
+* [Font Fabric](http://www.fontfabric.com/category/free/) - Font Fabric's free fonts.
+* [Font Squirrel](https://www.fontsquirrel.com) - Handpicked fonts free for commercial use.
+* [Google Fonts](https://www.google.com/fonts) - Interactive directory of free hosted application programming interfaces for web fonts.
+* [Impallari](http://www.impallari.com/) - Libre typeface projects by [Pablo Impallari](https://github.com/impallari).
+* [Open Type Foundry](http://open-foundry.com/hot30) - [:copyright:](http://open-foundry.com/about) A new platform for open-source fonts in a noise-free environment. 
+* [The League of Movable Type](https://www.theleagueofmoveabletype.com/) - Open-source type foundry.
+* [Type Genius](http://www.typegenius.com/) - Fantastic type pairing tool.
+
+## Icons
+
+### Icon Fonts
+
+A collection for icon font resources, most of which also include SVGs, which can be used in your interface and website designs.
+
+* [Appa Sariicon](http://code.sariina.com/appa-sariicon/) [:copyright:](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) 147 8-bit retro style webfont icons for web and mobile
+* [Batch Icons](http://adamwhitcroft.com/batch/) - [:copyright:](https://github.com/AdamWhitcroft/Batch/blob/master/License.txt) Icon set of 300+ icons, which is part of [inuit.css](https://github.com/csswizardry/inuit.css).
+* [Devicons](http://vorillaz.github.io/devicons/#/main) - [:copyright:](http://choosealicense.com/licenses/mit/) Meet Devicons, an iconic font made for developers, code jedis, ninjas, HTTPsters, evangelists and nerds(sic). 100+ icons ready to use in your next project.   
+* [Iconfinder](https://www.iconfinder.com/) - Iconfinder provides beautiful icons to millions of designers and developers. Most icons are available under attribution. See individual licenses for more details.
+* [Font Awesome](http://fontawesome.io/) - [:copyright:](http://choosealicense.com/licenses/mit/) MIT licensed icon font.
+* [Fontello](http://fontello.com/) - [:copyright:](https://github.com/fontello/fontello/wiki/What-about-license%3F) - Fontello is a tool to quickly pack vector images into webfonts. Also includes a section of stock icons.
+* [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3) - [:copyright:](http://choosealicense.com/licenses/mit/) An icon font from Zurb, the people behind the Foundation framework.
+* [GLYPHICONS](http://glyphicons.com/) - [:copyright:](http://creativecommons.org/licenses/by/3.0/) The free set is released under Creative Commons Attribution 3.0 Unported (CC BY 3.0) license and require attribution.
+* [IcoMoon](https://icomoon.io/) - [:copyright:](http://creativecommons.org/licenses/by/4.0/) Custom built and crisp icon fonts, done right.
+* [Ionicons](http://ionicons.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) The premium icon font for Ionic Framework. 100% free and open source.
+* [Ligature Symbols](http://kudakurage.com/ligature_symbols/) - [:copyright:](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) Really clean icon set inlcuding all major topics.
+* [Linea](http://www.linea.io/) - [:copyright:](http://creativecommons.org/licenses/by/4.0/) A free outline iconset featuring 730+ Icons.
+* [Material Design Icons](https://design.google.com/icons/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Google's Material Icons.
+* [Octicons](https://octicons.github.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) GitHub's Icons.
+* [Open Iconic](https://useiconic.com/open) - [:copyright: (font)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web) [:copyright: (icons)](http://creativecommons.org/licenses/by-sa/3.0/) Icon set with 223 marks in SVG.
+* [Social Stackicons](http://stackicons.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) Icon set with over 60 social brands.
+* [Topcoat Icons](https://github.com/topcoat/icons) - [:copyright:](http://www.apache.org/licenses/LICENSE-2.0) Icons by [Topcoat](http://topcoat.io/).
+* [Typicons](http://typicons.com/) - [:copyright: (font)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web) [:copyright: (icons)](http://creativecommons.org/licenses/by-sa/3.0/) Rounded icon set with 336 icons.
+* [Weather Icons](https://erikflowers.github.io/weather-icons/) - Weather Icons is the only icon font and CSS with 222 weather themed icons.
+* [WeLoveIconFonts](http://weloveiconfonts.com) – A free & open source icon fonts hosting service (like Google Web Fonts, but icon fonts only).
+
+### Icons Packages and Collections
+
+A collection for SVG icon resources which can be used in your interface and website designs.
+
+* [Entypo](http://www.entypo.com/) - [:copyright:](http://creativecommons.org/licenses/by-sa/3.0/) Carefully crafted iconset by [Daniel Bruce](http://www.danielbruce.se/).
+* [Geomicons Icons](http://geomicons.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) Most basic icon set.
+* [Iconmonstr](http://iconmonstr.com) - [:copyright:](http://iconmonstr.com/license/) A huge selection of icons in SVG and PNG format.
+* [Maps Icon](https://github.com/djaiss/mapsicon) - [:copyright:](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format.
+* [Material Design Icons](https://www.materialui.co/icons) - A collections of free, material design style icons.
+* [Simple Icons](https://github.com/danleech/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
+* [The Noun Project](https://thenounproject.com/) - [:copyright:](https://thenounproject.com/accounts/pricing/) Over 150,000 icons designed by creators from around the world. Free users must give credit to the creator.
+
+## Colors
+
+A selection of websites offering color schemes.
+
+* [0to255](http://www.0to255.com/) - A simple tool that helps web designers find variations of any color.
+* [0xrgb](http://0xrgb.com/) - A minimalistic color picker for well-known palettes (Material, iOS, FlatUI, Metro, Tango, Solarized).
+* [Bootflat](http://bootflat.github.io/color-picker.html) - Bootflat Flat UI color picker is a project digging the Flat Color Picker which gives you the perfect colors for flat designs.
+* [Brand Colors](http://brandcolors.net/) - Official color codes for the world's biggest brands.
+* [Coleure](https://www.coleure.com/) - Simple app for grabbing & tweaking colors you see on screen.
+* [Color Hunt](http://colorhunt.co/) - A place to discover, create, and share color palettes.
+* [Colorful Gradients](http://colorfulgradients.tumblr.com/) - Gradients automatically created by a computer. 48 times daily.
+* [Colour Lovers](http://www.colourlovers.com) - A creative community where people from around the world create and share colors, palettes and patterns.
+* [Coolors](https://coolors.co/) - The super fast color schemes generator for cool designers.
+* [Flat UI Colors](https://flatuicolors.com/) - Flat color picker which gives you the perfect colors for flat designs.
+* [LOLColors](http://www.lolcolors.com/) - A nice curated color palette inspiration resource.
+* [Material Design Colors](https://www.materialui.co/colors) - Material ui color palette for Android, Web & iOS.
+* [Material Palette](http://www.materialpalette.com/) - Generate & export your Material Design color palette.
 
