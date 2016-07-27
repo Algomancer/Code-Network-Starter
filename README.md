@@ -36,7 +36,7 @@ Android Guide.
 - [Boilerplate-iOS](https://github.com/openaphid/Boilerplate-iOS) Boilerplate by openaphid.
 
 ## Javascript
-Boilerplate Projects for Javascript
+*Boilerplates and templates for Javascript*
 
 Suggested Pick - [Hackathon Starter](https://github.com/sahat/hackathon-starter)
 
@@ -54,6 +54,30 @@ Suggested Pick - [Hackathon Starter](https://github.com/sahat/hackathon-starter)
 * [StarHackIt](https://github.com/FredericHeem/starhackit) - An ES6/ES7 full-stack starter kit with authentication and authorization code
 * [react-cordova-boilerplate](https://github.com/unimonkiez/react-cordova-boilerplate) - TodoMVC example for React to build a Cordova application
 * [UniversalRelayBoilerplate](https://github.com/codefoundries/UniversalRelayBoilerplate) - Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra
+* [AngularClass/NG6-starter](https://github.com/AngularClass/NG6-starter) - An AngularJS Starter repo for Angular + ES6 + (Webpack or JSPM) by [@AngularClass](https://github.com/AngularClass).
+* [tomastrajan/angular-js-es6-testing-example](https://github.com/tomastrajan/angular-js-es6-testing-example) - Angular JS seed repository with focus on unit & integration testing (ES6, webpack, karma, mocha), suitable for serious / enterprise projects.
+* [flatlogic/angular-material-dashboard](https://github.com/flatlogic/angular-material-dashboard) - Angular admin dashboard with material design
+* [ngbp/ngbp](https://github.com/ngbp/ngbp) - A sophisticated build management system for web apps
+* [vesparny/angular-kickstart](https://github.com/vesparny/angular-kickstart) - Speed up your AngularJS development and testing with a complete and scalable build system that scaffolds the project for you.
+* [okigan/angular-sensible-seed](https://github.com/okigan/angular-sensible-seed)  - Opinionated AngularJS starter project with per feature directory structure, static content, gulp build system, integrated logo/search/ui-router/ui-bootstrap/less.
+* [angular/angular-seed](https://github.com/angular/angular-seed) - Seed project for AngularJS apps.
+* [vesparny/angularjs-playground](https://github.com/vesparny/angularjs-playground) - A starting point that follows best-practices, for being up and running in minutes with AngularJS.
+* [kmaida/reStart-angular](https://github.com/kmaida/reStart-angular) - Responsive AngularJS seed project following styleguide best practices.
+* [StarterSquad/ngSeed](https://github.com/StarterSquad/ngseed) - AngularJS/RequireJS seed project.
+* [tnajdek/angular-requirejs-seed](https://github.com/tnajdek/angular-requirejs-seed) - This is a fork of Angular Seed but with changes needed for requireJS support.
+* [btford/angular-express-blog](https://github.com/btford/angular-express-blog) - Example AngularJS app using an Express + Node.js backend.
+* [btford/angular-socket-io-seed](https://github.com/btford/angular-socket-io-seed) - A great starting point for writing AngularJS apps backed by a Socket.io-powered node.js server.
+* [ziyasal/ratchet-angular-seed](https://github.com/ziyasal/ratchet-angular-seed) - Seed project for AngularJS & Ratchet apps.
+* [jesalg/RADD](https://github.com/jesalg/RADD) - Example AngularJS app using Rails and Devise authentication gem.
+* [linemanjs/lineman-angular-template](https://github.com/linemanjs/lineman-angular-template) - This is a project template for AngularJS applications using Lineman.
+* [meanjs/mean](https://github.com/meanjs/mean) - Mongo + ExpressJS + AngularJS + NodeJS boilerplate.
+* [linnovate/mean](https://github.com/linnovate/mean) - Mongo + ExpressJS + AngularJS + NodeJS boilerplate by Linnovate.
+* [melvin0008/laravel-angular](https://github.com/melvin0008/laravel-angular) - Laravel + AngularJS + CouchDB boilerplate by Melvin.
+* [giorgiofellipe/ionic-angular-parse-boilerplate](https://github.com/giorgiofellipe/ionic-angular-parse-boilerplate) - Ionic + AngularJS + Parse.com boilerplate by Giorgio Fellipe.
+* [the-front/angularjs-ee-boilerplate](https://github.com/the-front/angularjs-ee-boilerplate) - This boilerplate (seed project, starting project) helps you build large scale AngularJS applications with Require.js by Erko Bridee.
+* [ziyasal/ng-espack-boilerplate](https://github.com/ziyasal/ng-espack-boilerplate) - AngularJS 1.4x and ES6 application boilerplate /w testing practices using Webpack
+* [akveo/blur-admin](https://github.com/akveo/blur-admin) - Free premium Angular 1.x Bootsrap Admin dashboard
+* [gusgard/angular-seed-es6](https://github.com/gusgard/angular-seed-es6) - AngularJS 1.5 starter repo using best practices + ES6 + SASS + Browserify + BrowserSync.
 
 
 ## C&#35;
