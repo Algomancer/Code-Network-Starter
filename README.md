@@ -103,6 +103,8 @@ Suggested Pick - [Hackathon Starter](https://github.com/sahat/hackathon-starter)
 
 *Boilerplates and templates for Python*
 
+Suggested pick -  [Django Hackathon Starter](https://github.com/DrkSephy/django-hackathon-starter)
+
 * [Django Hackathon Starter](https://github.com/DrkSephy/django-hackathon-starter) A boilerplate for Django web applications, providing various social logins and several popular API examples.
 * [CookieCutter](https://github.com/audreyr/cookiecutter#python) List of various python templates by Audrey. 
 * [bootstrapy](https://github.com/kirang89/bootstrapy) A bootstrap Python application, so that you can focus on writing code.
