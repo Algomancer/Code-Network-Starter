@@ -3,12 +3,37 @@ A collection of awesome guides, resources and shiny things.
 
 
 * Seed Project Templates
+  * [Android](#android)
   * [Javascript](#javascript)
   * Clojure
   * Golang
   * Python
   * [C#](#c)
 
+## Android 
+
+*Boilerplates and templates for Android*
+
+- [Android Bootstrap](https://github.com/AndroidBootstrap/android-bootstrap) A template/bootstrap/boilerplate application that includes tons of great open source tools and frameworks.
+- [Android Material Drawer Template](https://github.com/kanytu/android-material-drawer-template) An Android template with navigation drawer for material design.
+- [Web Apps](https://github.com/h5bp/mobile-boilerplate) Boilerplate for mobile web apps.
+- [material-design-icons-adt-template](https://github.com/intrications/material-design-icons-adt-template) Android Studio / Eclipse ADT template for material-design-icons resources.
+- [AndroidKickststarter](https://github.com/e-biz/androidkickstartr) Framework kickstarts development which help you focus on coding.
+- [Android Annotations](https://github.com/excilys/androidannotations) Fast Android Development. Easy maintainance.
+- [Android Cookbook Examples](https://github.com/IanDarwin/Android-Cookbook-Examples) Collected code examples from the O'Reilly Android Cookbook.
+- [Android Basic Samples](https://github.com/playgameservices/android-basic-samples) Mostly game oriented samples.
+- [Android Webview Sample App](https://github.com/tscolari/android-webview-sample-app) Webview Sample App
+- [Android Quickstart](https://github.com/googledrive/android-quickstart) Quickstart application showing the Google Drive API for Android.
+- [Beginning Android Resources](https://github.com/codepath/android_guides/wiki/Beginning-Android-Resources)
+Android Guide.
+
+## IOS Development.
+
+*Boilerplates and templates for IOS*
+
+- [iOS Biolerplate](https://github.com/gimenete/iOS-boilerplate) Boilerplate by Gimeno.
+- [Amaro](https://github.com/crushlovely/Amaro) Featureful iOS Boilerplate.
+- [Boilerplate-iOS](https://github.com/openaphid/Boilerplate-iOS) Boilerplate by openaphid.
 
 ## Javascript
 Boilerplate Projects for Javascript
