@@ -7,7 +7,7 @@ A collection of awesome guides, resources and shiny things.
   * Clojure
   * Golang
   * Python
-  * [C#](#c#)
+  * [C#](#c)
 
 
 ## Javascript
@@ -33,4 +33,4 @@ Suggested Pick - [Hackathon Starter](https://github.com/sahat/hackathon-starter)
 * [UniversalRelayBoilerplate - Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra](https://github.com/codefoundries/UniversalRelayBoilerplate)
 
 
-## C\#
+## C&#35;
