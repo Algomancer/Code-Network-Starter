@@ -8,7 +8,7 @@ A collection of awesome guides, resources and shiny things for rapid prototyping
   * [Javascript](#javascript)
   * Clojure
   * Golang
-  * Python
+  * [Python](#python)
   * Scala
   * Elixir
   * [C#](#c)
@@ -91,6 +91,24 @@ Suggested Pick - [Hackathon Starter](https://github.com/sahat/hackathon-starter)
 * [akveo/blur-admin](https://github.com/akveo/blur-admin) - Free premium Angular 1.x Bootsrap Admin dashboard
 * [gusgard/angular-seed-es6](https://github.com/gusgard/angular-seed-es6) - AngularJS 1.5 starter repo using best practices + ES6 + SASS + Browserify + BrowserSync.
 
+
+## Python 
+
+*Boilerplates and templates for Python*
+
+- [Django Hackathon Starter](https://github.com/DrkSephy/django-hackathon-starter) A boilerplate for Django web applications, providing various social logins and several popular API examples.
+- [CookieCutter](https://github.com/audreyr/cookiecutter#python) List of various python templates by Audrey. 
+- [bootstrapy](https://github.com/kirang89/bootstrapy) A bootstrap Python application, so that you can focus on writing code.
+- [Fbone](https://github.com/imwilsonxu/fbone) Fbone (Flask bone) is a Flask (Python microframework) template/bootstrap/boilerplate application.
+- [Flask-Bootstrap](https://github.com/esbullington/flask-bootstrap) A Flask app template with integrated SQLAlchemy, authentication, and Bootstrap frontend.
+- [Flask Boilerplate](https://github.com/melvin0008/FlaskBoilerplate) A very simple flask boilerplate with folder structures.
+- [Flask Foundation](https://github.com/JackStouffer/Flask-Foundation) App built with best practices.
+- [fafafa](https://github.com/fordaaronj/fafafa) Flask / Angular / Foundation Boilerplate
+- [GoogleAppEngine Webapp2 Boilerplate](https://github.com/coto/gae-boilerplate) A Complete boilerplate for Python Webapp2 on Google App Engine
+- [Flask Appengine Template](https://github.com/kamalgill/flask-appengine-template) Flask App engine Template
+- [Django Starter Template](https://github.com/fasouto/django-starter-template) An easy to use project template for Django that follows best practices.
+- [gae-init](http://gae-init.appspot.com) Google App Engine based on Flask, RESTful, Bootstrap and tons of other cool features.
+    
 
 ## C&#35;
 
