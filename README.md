@@ -34,3 +34,5 @@ Suggested Pick - [Hackathon Starter](https://github.com/sahat/hackathon-starter)
 
 
 ## C&#35;
+
+* [ASP.NET Core Starter Kit (C#) — Frontend: React, Babel, PostCSS, CSS Modules + backend: .NET Core, C#](https://github.com/kriasoft/aspnet-starter-kit)
