@@ -151,7 +151,4 @@ All the resources below have specifically specified that their content is open f
 * [Unsplash](https://unsplash.com/) - User submitted, free high-resolution photos. 10 new photos every 10 days.
 * [Good Free Photos](https://www.goodfreephotos.com) - [:copyright:](https://www.goodfreephotos.com/pages/creative-commons-license-terms) A large free stock photo site with thousands of public domain photos including landscapes, objects, animals, plants, textures, and many other free photos. All photos taken by [the website owner](https://www.goodfreephotos.com/pages/about-me).
 * [Flickr Commons](https://www.flickr.com/commons) - [:copyright:](https://www.flickr.com/commons/usage/) Flickr's catalogue of the worlds public photo archives. Use the advance search to filter
-* [New Old Stock](http://nos.twnsnd.co/) - [:copyright:](http://nos.twnsnd.co/rights-and-usage) Vintage photos from the public archive. of known copyright restrictions.
-* [NYPL Digital Collections] (http://digitalcollections.nypl.org/) - [:copyright:] (https://www.nypl.org/help/about-nypl/legal-notices/website-terms-and-conditions) 180.000 items are Public Domain since January 6th 2016 [Public Domain Collections: Free to Share & Reuse](https://www.nypl.org/research/collections/digital-collections/public-domain)
-* [Project Apollo Archive](https://www.flickr.com/people/projectapolloarchive/) - [:copyright](https://creativecommons.org/publicdomain/mark/1.0/) High-resolution Apollo imagery scanned by NASA's Johnson Space Center.
-* [Public Domain Archive](http://publicdomainarchive.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) New stock photos every single week.
+
