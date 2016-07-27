@@ -7,7 +7,7 @@ A collection of awesome guides, resources and shiny things.
   * Clojure
   * Golang
   * Python
-  * [C#](#c)
+  * [C#](#c#)
 
 
 ## Javascript
