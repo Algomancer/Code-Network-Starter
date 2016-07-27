@@ -13,7 +13,7 @@ A collection of awesome guides, resources and shiny things.
   * Elixir
   * [C#](#c)
 * Utilties & Guides
-  * [Photos and Graphics](#photos)
+  * [Photos and Graphics](#photos-and-graphics)
   * Design
   * Monetization
   * Distribution
