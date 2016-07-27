@@ -4,11 +4,23 @@ A collection of awesome guides, resources and shiny things.
 
 * Seed Project Templates
   * [Android](#android)
+  * [IOS](#ios)
   * [Javascript](#javascript)
   * Clojure
   * Golang
   * Python
+  * Scala
+  * Elixir
   * [C#](#c)
+* Utilties & Guides
+  * [Photos and Graphics](#photos)
+  * Design
+  * Monetization
+  * Distribution
+  * Ideas
+  * Minimum Viable Product
+
+# Seed Project Templates
 
 ## Android 
 
@@ -27,7 +39,7 @@ A collection of awesome guides, resources and shiny things.
 - [Beginning Android Resources](https://github.com/codepath/android_guides/wiki/Beginning-Android-Resources)
 Android Guide.
 
-## IOS Development.
+## IOS.
 
 *Boilerplates and templates for IOS*
 
@@ -90,3 +102,56 @@ Suggested Pick - [Hackathon Starter](https://github.com/sahat/hackathon-starter)
 * [Side-Waffle](https://github.com/LigerShark/side-waffle) - Large collection of useful templates for Web and Desktop development.
 * [Template10](https://github.com/Windows-XAML/Template10) - Windows 10 templates with design patterns.
 
+# Utilties & Guides
+
+## Photos and Graphics
+
+All the resources below have specifically specified that their content is open for commercial use without attribution.
+
+* [Barn Images](http://barnimages.com/) - Barn Images offers you a collection of free high-resolution non-stock photography.
+* [Boss Fight!](https://bossfight.co) - 10–20 new images added daily.
+* [CC0 Photo](http://cc0.photo/) - CC0.photo is a project initiated by Raffael Herrmann, which serves you with free photos.
+* [Creative Vix](http://creativevix.com/stock) - A wide range of photos for you to use.
+* [Crow the Stone](http://crowthestone.tumblr.com/) - Free photos to use any way you want.
+* [Cupcake](http://cupcake.nilssonlee.se/) - Free do what ever you want photos by [Jonas Nilsson Lee](https://twitter.com/nilsson_jonas).
+* [Epicantus](http://epicantus.tumblr.com/) - Hi-resolution photos added every week.
+* [Fancy Crave](http://fancycrave.com/) - Two new images added every day.
+* [FindA.Photo](http://finda.photo/) - search through thousands of CC0 photos by keyword and color.
+* [Free Nature Stock](http://freenaturestock.com/) - Royalty-free, use them however you want, Nature Stock Photos.
+* [Free-Images.cc](http://www.free-images.cc/) - Create something awesome with free CC0 images.
+* [Furious Camera](http://furiouscamera.com/) - Free Life Hi-Fi Photos for use on your personal and commercial projects. New photo every day.
+* [Gratisography](http://www.gratisography.com/) - Free high-resolution pictures you can use on your personal and commercial projects. New pictures added weekly.
+* [Jay Mantri](http://jaymantri.com/) - Free pics. Do anything. Make magic.
+* [Jéshoots](http://jeshoots.com/) - Photos for business or personal use in high resolution for free.
+* [LibreShot] (http://libreshot.com/) - A collection of hundreds of high quality free stock images for personal or commercial use.
+* [Life of Pix](http://www.lifeofpix.com/) - Free high-resolution photos, no copyright restrictions. Photographs added weekly.
+* [Little Visuals](http://littlevisuals.co/) - Hi-res images zipped up in your inbox. Use them anyway you want.
+* [Lock & Stock Photos](http://lockandstockphotos.com/) - Free stock photos for you.
+* [Magdeleine](http://magdeleine.co/browse/) - A selection of free photos curated by [Magdeleine](https://twitter.com/MagdeleinePhoto).
+* [MMT](http://mmtstock.com/) - New photos by [Jeffrey Betts](http://jeffreybetts.me/) added every week.
+* [Moveast](http://moveast.me/) - This is a journey of a Portuguese guy moving.
+* [Negative Space](http://negativespace.co/) - Stock photos added every week.
+* [Pexels](https://www.pexels.com/) - 20 new high-quality photos daily.
+* [Photo Collections](http://photocollections.io/) - Free stock photography of architecture, nature and people.
+* [Photo Crops](http://www.photocrops.com/) - Five high resolution photos added every week, sometimes more.
+* [Pickle Jar](http://picklejar.in/) - High-resolution images of everyday india. One new image every day.
+* [Pixabay](https://pixabay.com) - Stock photos, illustrations, vectors and videos.
+* [Realistic Shots](http://realisticshots.com/) - 7 new photos added every week.
+* [Skitter Photo](http://skitterphoto.com/) - Public domain pictures and stock photos for commercial use.
+* [Snapwire Snaps](http://snapwiresnaps.tumblr.com/) - Commissioned photos from 170,000 of the world's most talented photographers.
+* [SpaceX Photos](https://www.flickr.com/photos/spacex/) - Promotional SpaceX stock photography.
+* [Splashbase](http://www.splashbase.co/) - Search & discover free, hi res photos & videos.
+* [Stock Image Point](http://www.stock-image-point.com/) - Free stock photos. 20 pictures added every month.
+* [Stockified](https://www.stockified.com/) - Free pictures taken in India by Kiran BV and [Aditya G Bharadwaj](http://ab-dz.com/).
+* [Stocksnap](https://stocksnap.io/) - Hundreds of high resolution images added weekly.
+* [Stokpic](http://stokpic.com/) - Free Stock Photos For Commercial Use.
+* [Streetwill](http://streetwill.co/) - Free hi-res vintage photos to use any way you want.
+* [The Pic Pac](https://thepicpac.com/) - New pacs on Monday, free pics Tuesday - Sunday.
+* [Travel Coffee Book](http://travelcoffeebook.com/) - Travel photography.
+* [Unsplash](https://unsplash.com/) - User submitted, free high-resolution photos. 10 new photos every 10 days.
+* [Good Free Photos](https://www.goodfreephotos.com) - [:copyright:](https://www.goodfreephotos.com/pages/creative-commons-license-terms) A large free stock photo site with thousands of public domain photos including landscapes, objects, animals, plants, textures, and many other free photos. All photos taken by [the website owner](https://www.goodfreephotos.com/pages/about-me).
+* [Flickr Commons](https://www.flickr.com/commons) - [:copyright:](https://www.flickr.com/commons/usage/) Flickr's catalogue of the worlds public photo archives. Use the advance search to filter
+* [New Old Stock](http://nos.twnsnd.co/) - [:copyright:](http://nos.twnsnd.co/rights-and-usage) Vintage photos from the public archive. of known copyright restrictions.
+* [NYPL Digital Collections] (http://digitalcollections.nypl.org/) - [:copyright:] (https://www.nypl.org/help/about-nypl/legal-notices/website-terms-and-conditions) 180.000 items are Public Domain since January 6th 2016 [Public Domain Collections: Free to Share & Reuse](https://www.nypl.org/research/collections/digital-collections/public-domain)
+* [Project Apollo Archive](https://www.flickr.com/people/projectapolloarchive/) - [:copyright](https://creativecommons.org/publicdomain/mark/1.0/) High-resolution Apollo imagery scanned by NASA's Johnson Space Center.
+* [Public Domain Archive](http://publicdomainarchive.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) New stock photos every single week.
