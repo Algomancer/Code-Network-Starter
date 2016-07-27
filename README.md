@@ -14,7 +14,7 @@ A collection of awesome guides, resources and shiny things for rapid prototyping
   * [C#](#c)
 * Utilties & Guides
   * [Photos and Graphics](#photos-and-graphics)
-  * Design
+  * [Design](#design)
   * Monetization
   * Distribution
   * Ideas
