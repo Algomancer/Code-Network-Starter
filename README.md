@@ -27,6 +27,7 @@ A collection of awesome guides, resources and shiny things for rapid prototyping
 *Boilerplates and templates for Android*
 
 - [Android Bootstrap](https://github.com/AndroidBootstrap/android-bootstrap) A template/bootstrap/boilerplate application that includes tons of great open source tools and frameworks.
+- [U+2020 Sample App](https://github.com/JakeWharton/u2020) A similar project to Android Bootstrap with a focus on dependency injection using Dagger 2. An accompanying talk and slides in the repository's readme.
 - [Android Material Drawer Template](https://github.com/kanytu/android-material-drawer-template) An Android template with navigation drawer for material design.
 - [Web Apps](https://github.com/h5bp/mobile-boilerplate) Boilerplate for mobile web apps.
 - [material-design-icons-adt-template](https://github.com/intrications/material-design-icons-adt-template) Android Studio / Eclipse ADT template for material-design-icons resources.
